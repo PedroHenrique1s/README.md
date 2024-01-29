@@ -16,4 +16,4 @@
 [![linktree](https://github-readme-stats.vercel.app/api/pin/?username=PedroHenrique1s&repo=Pokedex)](https://github.com/PedroHenrique1s/Pokedex)
 ### 🚀 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique1s&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique1s)
